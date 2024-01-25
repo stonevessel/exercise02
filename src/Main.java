@@ -9,6 +9,7 @@ public class Main {
             if(highs[i]<= 32 && precipitation[i]>= .5 ){
                 System.out.println(weekDays[i]+" are the days it's going to snow.");
             }
+
         }
 
         // use the decimal verson of the percentages
